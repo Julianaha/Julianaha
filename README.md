@@ -1,7 +1,7 @@
 <div align='center'>
 
-### Hello World 👋
-
+![Juliana Souza](https://user-images.githubusercontent.com/65184920/184556591-a8626be1-f949-4ccf-9c36-6c49c12f1f6c.png)
+  
 </div>
 
 <!--
