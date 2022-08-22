@@ -4,8 +4,9 @@
   
 </div>
 
-Welcome! I'm happy to have you here
-- 🔭 I'm currently developing my portfolio
+Welcome! I'm happy to have you here 👋🏻
+
+- 🔭 I'm currently developing my portfolio
 - 🌱 Learning about Web Development - Full Stack
 - 🎓 Graduated in Pedagogy
 - 💬 Ask me about web development, motherhood, travel and beach
