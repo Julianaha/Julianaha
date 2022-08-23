@@ -11,5 +11,5 @@ Welcome! I'm happy to have you here 👋🏻
 - 🎓 Graduated in Pedagogy
 - 💬 Ask me about web development, motherhood, travel and beach
 - 😄 Pronouns She/Her
-- 🌎 I'm from Brazil, Garopaba in Santa Catarina
+- 🌎 I'm from Garopaba, Santa Catarina in Brazil
 - 📫 Reach me: julianaha01@gmail.com
